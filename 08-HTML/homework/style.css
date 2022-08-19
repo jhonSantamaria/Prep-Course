@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://www.ambientum.com/wp-content/uploads/2019/03/Portada-Fuente-Javier-Martinez-de-Orueta.jpg");    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    color: green;
+}
+
+a{
+    color: white;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+.divClass{
+    text-align: center;
+    color: white;
+}
+
+.thirdDiv ul{     
+    margin-left: auto;
+    margin-right: auto;    
+    width: 900px;
+    height: 230px;
+    background-color: rgb(200, 194, 206);
+    padding: 50px;
+    border: 10px blue solid;
+    display: flex;
+    flex-direction: row;     
+    justify-content: center;  
+    list-style: none;
+}
+
+.thirdDiv ul{
+    
+}
+
+.thirdDiv img{
+    margin: 10px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
